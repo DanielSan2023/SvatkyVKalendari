@@ -1,0 +1,365 @@
+2023,1,1	Daniela
+2023,1,2	Alexandra, Karina
+2023,1,3	Daniela
+2023,1,4	Drahoslav
+2023,1,5	Andrea
+2023,1,6	Antónia
+2023,1,7	Bohuslava
+2023,1,8	Severín
+2023,1,9	Alexej
+2023,1,10	Dáša
+2023,1,11	Malvína
+2023,1,12	Ernest
+2023,1,13	Rastislav
+2023,1,14	Radovan
+2023,1,15	Dobroslav
+2023,1,16	Kristína
+2023,1,17	Nataša
+2023,1,18	Bohdana
+2023,1,19	Drahomíra, Mário
+2023,1,20	Dalibor, Sebastián
+2023,1,21	Vincent
+2023,1,22	Zora
+2023,1,23	Miloš
+2023,1,24	Timotej
+2023,1,25	Gejza
+2023,1,26	Tamara
+2023,1,27	Bohuš
+2023,1,28	Alfonz
+2023,1,29	Gašpar
+2023,1,30	Ema
+2023,1,31	Emil
+2023,2,1	Tatiana
+2023,2,2	Erika, Erik
+2023,2,3	Blažej
+2023,2,4	Veronika
+2023,2,5	Agáta
+2023,2,6	Dorota
+2023,2,7	Vanda
+2023,2,8	Zoja
+2023,2,9	Zdenko
+2023,2,10	Gabriela
+2023,2,11	Dezider
+2023,2,12	Perla
+2023,2,13	Arpád
+2023,2,14	Valentín
+2023,2,15	Pravoslav
+2023,2,16	Ida, Liana
+2023,2,17	Miloslava
+2023,2,18	Jaromír
+2023,2,19	Vlasta
+2023,2,20	Lívia
+2023,2,21	Eleonóra
+2023,2,22	Etela
+2023,2,23	Roman, Romana
+2023,2,24	Matej
+2023,2,25	Frederik, Frederika
+2023,2,26	Viktor
+2023,2,27	Alexander
+2023,2,28	Zlatica
+2023,3,1	Albín
+2023,3,2	Anežka
+2023,3,3	Bohumil, Bohumila
+2023,3,4	Kazimír
+2023,3,5	Fridrich
+2023,3,6	Radoslav, Radoslava
+2023,3,7	Tomáš
+2023,3,8	Alan, Alana
+2023,3,9	Františka
+2023,3,10	Bruno, Branislav
+2023,3,11	Angela, Angelika
+2023,3,12	Gregor
+2023,3,13	Vlastimil
+2023,3,14	Matilda
+2023,3,15	Svetlana
+2023,3,16	Boleslav
+2023,3,17	Ľubica
+2023,3,18	Eduard
+2023,3,19	Jozef
+2023,3,20	Víťazoslav, Klaudius
+2023,3,21	Blahoslav
+2023,3,22	Beňadik
+2023,3,23	Adrián
+2023,3,24	Gabriel
+2023,3,25	Marián
+2023,3,26	Emanuel
+2023,3,27	Alena
+2023,3,28	Soňa
+2023,3,29	Miroslav
+2023,3,30	Benjamín
+2023,3,31	Boleslav
+2023,4,1	Hugo
+2023,4,2	Zita
+2023,4,3	Richard
+2023,4,4	Izidor
+2023,4,5	Miroslava
+2023,4,6	Irena
+2023,4,7	Zoltán
+2023,4,8	Albert
+2023,4,9	Milena
+2023,4,10	Igor
+2023,4,11	Július
+2023,4,12	Estera
+2023,4,13	Aleš
+2023,4,14	Justina
+2023,4,15	Fedor
+2023,4,16	Dana, Danica
+2023,4,17	Rudolf
+2023,4,18	Valér
+2023,4,19	Jela
+2023,4,20	Marcel
+2023,4,21	Ervín
+2023,4,22	Slavomír
+2023,4,23	Vojtech
+2023,4,24	Juraj
+2023,4,25	Marek
+2023,4,26	Jaroslava
+2023,4,27	Jaroslav
+2023,4,28	Jarmila
+2023,4,29	Lea
+2023,4,30	Anastázia
+2023,5,1	Žigmund
+2023,5,2	Galina, Timea
+2023,5,3	Florián
+2023,5,4	Lesia, Lesana
+2023,5,5	Hermína
+2023,5,6	Monika
+2023,5,7	Ingrida
+2023,5,8	Roland
+2023,5,9	Blažena
+2023,5,10	Pankrác
+2023,5,11	Servác
+2023,5,12	Bonifác
+2023,5,13	Žofia, Sofia
+2023,5,14	Svetozár
+2023,5,15	Gizela
+2023,5,16	Viola
+2023,5,17	Gertrúda
+2023,5,18	Bernard
+2023,5,19	Zina
+2023,5,20	Júlia, Juliana
+2023,5,21	Želmíra
+2023,5,22	Ela
+2023,5,23	Urban, Vivien
+2023,5,24	Dušan
+2023,5,25	Iveta
+2023,5,26	Viliam
+2023,5,27	Vilma
+2023,5,28	Ferdinand
+2023,5,29	Peter, Pavol, Petra
+2023,5,30	Melánia
+2023,5,31	Diana
+2023,6,1	Žaneta
+2023,6,2	Xénia, Oxana
+2023,6,3	Karolína
+2023,6,4	Lenka
+2023,6,5	Laura
+2023,6,6	Norbert
+2023,6,7	Róbert, Róberta
+2023,6,8	Medard
+2023,6,9	Stanislava
+2023,6,10	Margaréta
+2023,6,11	Dobroslava
+2023,6,12	Zlatko
+2023,6,13	Anton
+2023,6,14	Vasil
+2023,6,15	Vít
+2023,6,16	Blanka, Bianka
+2023,6,17	Adolf
+2023,6,18	Vratislav
+2023,6,19	Alfréd
+2023,6,20	Valéria
+2023,6,21	Alojz
+2023,6,22	Paulína
+2023,6,23	Sidónia
+2023,6,24	Ján
+2023,6,25	Olívia, Tadeáš
+2023,6,26	Adriána
+2023,6,27	Ladislav, Ladislava
+2023,6,28	Beáta
+2023,6,29	Peter
+2023,6,30	Melánia
+2023,7,1	Diana
+2023,7,2	Berta
+2023,7,3	Miloslav
+2023,7,4	Prokop
+2023,7,5	Cyril, Metod
+2023,7,6	Patrik, Patrícia
+2023,7,7	Oliver
+2023,7,8	Ivan
+2023,7,9	Lujza
+2023,7,10	Amália
+2023,7,11	Milota
+2023,7,12	Nina
+2023,7,13	Margita
+2023,7,14	Kamil
+2023,7,15	Henrich
+2023,7,16	Drahomír
+2023,7,17	Bohuslav
+2023,7,18	Kamila
+2023,7,19	Dušana
+2023,7,20	Iľja, Eliáš
+2023,7,21	Daniel
+2023,7,22	Magdaléna
+2023,7,23	Oľga
+2023,7,24	Vladimír
+2023,7,25	Jakub, Timur
+2023,7,26	Anna, Hana, Anita, Aneta
+2023,7,27	Božena
+2023,7,28	Krištof
+2023,7,29	Marta
+2023,7,30	Libuša
+2023,7,31	Ignác
+
+2023,8,1	Božidara
+2023,8,2	Gustáv
+2023,8,3	Jerguš
+2023,8,4	Dominika, Dominik
+2023,8,5	Hortenzia
+2023,8,6	Jozefína
+2023,8,7	Štefánia
+2023,8,8	Oskar
+2023,8,9	Ľubomíra
+2023,8,10	Vavrinec
+2023,8,11	Zuzana
+2023,8,12	Darina
+2023,8,13	Ľubomír
+2023,8,14	Mojmír
+2023,8,15	Marcela
+2023,8,16	Leonard
+2023,8,17	Milica
+2023,8,18	Elena, Helena
+2023,8,19	Lýdia
+2023,8,20	Anabela, Liliana
+2023,8,21	Jana
+2023,8,22	Tichomír
+2023,8,23	Filip
+2023,8,24	Bartolomej
+2023,8,25	Ľudovít
+2023,8,26	Samuel
+2023,8,27	Silvia
+2023,8,28	Augustín
+2023,8,29	Nikola
+2023,8,30	Ružena
+2023,8,31	Nora
+  2023,9,1 Drahoslava
+  2023,9,2 Linda, Rebeka
+  2023,9,3 Belo
+  2023,9,4 Rozália
+  2023,9,5 Regina
+  2023,9,6 Alica
+  2023,9,7 Marianna
+  2023,9,8 Miriama
+  2023,9,9 Martina
+  2023,9,10 Oleg
+  2023,9,11 Bystrík
+  2023,9,12 Mária, Marlena
+  2023,9,13 Ctibor
+  2023,9,14 Ľudomil
+  2023,9,15 Jolana
+  2023,9,16 Ľudmila
+  2023,9,17 Olympia
+  2023,9,18 Eugénia
+  2023,9,19 Konštantín
+  2023,9,20 Ľuboslav, Ľuboslava
+  2023,9,21 Matúš
+  2023,9,22 Móric
+  2023,9,23 Zdenka
+  2023,9,24 Ľuboš, Ľubor
+  2023,9,25 Vladislav, Vladislava
+  2023,9,26 Edita
+  2023,9,27 Cyprián
+  2023,9,28 Václav
+  2023,9,29 Michal, Michaela
+  2023,9,30 Jarolím
+  2023,10,1 Arnold
+  2023,10,2 Levoslav
+  2023,10,3 Stela
+  2023,10,4 František
+  2023,10,5 Viera
+  2023,10,6 Natália
+  2023,10,7 Eliška
+  2023,10,8 Brigita
+  2023,10,9 Dionýz
+  2023,10,10 Slavomíra
+  2023,10,11 Valentína
+  2023,10,12 Maximilián
+  2023,10,13 Koloman
+  2023,10,14 Boris
+  2023,10,15 Terézia
+  2023,10,16 Vladimíra
+  2023,10,17 Hedviga
+  2023,10,18 Lukáš
+  2023,10,19 Kristián
+  2023,10,20 Vendelín
+  2023,10,21 Uršuľa
+  2023,10,22 Sergej
+  2023,10,23 Alojzia
+  2023,10,24 Kvetoslava
+  2023,10,25 Aurel
+  2023,10,26 Demeter
+  2023,10,27 Sabína
+  2023,10,28 Dobromila
+  2023,10,29 Klára
+  2023,10,30 Šimon, Simona
+  2023,10,31 Aurélia
+  2023,11,1 Denis, Denisa
+  2023,11,3 Hubert
+  2023,11,4 Karol
+  2023,11,5 Imrich
+  2023,11,6 Renáta
+  2023,11,7 René
+  2023,11,8 Bohumír
+  2023,11,9 Teodor
+  2023,11,10 Tibor
+  2023,11,11 Martin, Maroš
+  2023,11,12 Svätopluk
+  2023,11,13 Stanislav
+  2023,11,14 Irma
+  2023,11,15 Leopold
+  2023,11,16 Agnesa
+  2023,11,17 Klaudia
+  2023,11,18 Eugen
+  2023,11,19 Alžbeta
+  2023,11,20 Félix
+  2023,11,21 Elvíra
+  2023,11,22 Cecília
+  2023,11,23 Klement
+  2023,11,24 Emília
+  2023,11,25 Katarína
+  2023,11,26 Kornel
+  2023,11,27 Milan
+  2023,11,28 Henrieta
+  2023,11,29 Vratko
+  2023,11,30 Ondrej, Andrej
+  2023,12,1 Edmund
+  2023,12,2 Bibiána
+  2023,12,3 Oldrich
+  2023,12,4 Barbora, Barbara
+  2023,12,5 Oto
+  2023,12,6 Mikuláš
+  2023,12,7 Ambróz
+  2023,12,8 Marína
+  2023,12,9 Izabela
+  2023,12,10 Radúz
+  2023,12,11 Hilda
+  2023,12,12 Otília
+  2023,12,13 Lucia
+  2023,12,14 Branislava, Bronislava
+  2023,12,15 Ivica
+  2023,12,16 Albína
+  2023,12,17 Kornélia
+  2023,12,18 Sláva
+  2023,12,19 Judita
+  2023,12,20 Dagmara
+  2023,12,21 Bohdan
+  2023,12,22 Adela
+  2023,12,23 Nadežda
+  2023,12,24 Adam, Eva
+  2023,12,26 Štefan
+  2023,12,27 Filoména
+  2023,12,28 Ivana, Ivona
+  2023,12,29 Milada
+  2023,12,30 Dávid
+  2023,12,31 Silvester
+
